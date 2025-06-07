@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class operadoresUnarios {
+public class Tabuada {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
